@@ -1,3 +1,6 @@
+body{
+    padding-top: 80px;
+}
 header{
     background: rgba(0, 0, 0, 0.9);
     padding: 15px 0;
